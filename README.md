@@ -1,7 +1,4 @@
 # 207_Assignment2
-
-
-
 var os = require('os');
 
 //OS CPU architecture
